@@ -1,0 +1,31 @@
+{
+  "name": "greg",
+  "version": "1.0.0",
+  "description": "just discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord-bot",
+    "javascript",
+    "discord-js",
+    "slash-commands",
+    "api-integration",
+    "nodejs",
+    "fun"
+  ],
+  "author": "GogaNotClown",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.8.1",
+    "@discordjs/rest": "^2.3.0",
+    "@sefinek/random-animals": "^2.0.1",
+    "akaneko": "^5.3.0",
+    "axios": "^1.7.2",
+    "discord-api-types": "^0.37.85",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "http": "^0.0.1-security"
+  }
+}
