@@ -11,7 +11,6 @@ sending random cat images and NSFW content in dm.
 - [Config](#config)
 - [Important](#important)
 - [Technologies Used](#technologies-used)
-- [Contact](#contact)
 - [Project Status](#project-status)
 
 ## Installation
@@ -74,10 +73,6 @@ it:
 - [Node.js](https://nodejs.org/en)
 - [Discord.js](https://discord.js.org/)
 - [Axios](https://axios-http.com/)
-
-## Contact
-
-For questions or suggestions, you can contact [GogaNotClown](https://github.com/GogaNotClown/) via GitHub
 
 ## Project Status
 
