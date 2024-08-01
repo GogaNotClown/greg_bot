@@ -1,7 +1,7 @@
 # greg_bot [RU](README_RU.md)
 
 The bot is designed to provide users with entertaining content through slash commands, offering features such as
-sending random cat images and NSFW content in dm. It is tailored for use on a single server.
+sending random cat images and NSFW content in dm.
 
 [![Project Preview](https://i.postimg.cc/wB3GS5Gy/image.png)](https://postimg.cc/67JcZZwt)
 
