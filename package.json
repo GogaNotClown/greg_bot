@@ -22,7 +22,7 @@
     "@discordjs/rest": "^2.3.0",
     "@sefinek/random-animals": "^2.0.1",
     "akaneko": "^5.3.0",
-    "axios": "^1.7.2",
+    "axios": "^1.7.4",
     "discord-api-types": "^0.37.85",
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
