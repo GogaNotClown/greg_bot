@@ -1,0 +1,27 @@
+{
+  "name": "greg",
+  "version": "1.1.0",
+  "description": "The bot is designed to provide users with entertaining content through slash commands, offering features such as sending random cat images and NSFW content in dm.",
+  "main": "index.js",
+  "keywords": [
+    "discord-bot",
+    "javascript",
+    "discord-js",
+    "slash-commands",
+    "api-integration",
+    "nodejs",
+    "fun"
+  ],
+  "author": "GogaNotClown | pursuit of dreams",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.11.2",
+    "@discordjs/rest": "^2.5.1",
+    "@sefinek/random-animals": "^2.0.5",
+    "axios": "^1.10.0",
+    "discord-api-types": "^0.38.14",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.0.1",
+    "night-api": "^1.3.0"
+  }
+}
